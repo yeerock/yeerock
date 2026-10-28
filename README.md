@@ -32,13 +32,13 @@ Serving Malaysia, Singapore, Thailand, Indonesia, the Philippines, Vietnam and B
 
 ## Open source
 
-[**DSH RC · Remote Control**](https://github.com/yeerock/dsh-rc) &middot; MIT &middot; TypeScript
+[**DSH RC · Remote Control**](https://github.com/yeerock/deepseek-harness-remote-control) &middot; MIT &middot; TypeScript
 
 Reliable remote access for the DeepSeek Harness desktop app: one outbound TLS WebSocket, the real Harness UI in any browser, no WebRTC, no UDP, no second client. Self-hosted edge, 197 automated tests, real end-to-end proof.
 
-<a href="https://github.com/yeerock/dsh-rc"><img src="https://raw.githubusercontent.com/yeerock/dsh-rc/main/docs/images/desktop-through-edge.png" alt="DSH RC — the unmodified Harness UI served through the edge" width="720"></a>
+<a href="https://github.com/yeerock/deepseek-harness-remote-control"><img src="https://raw.githubusercontent.com/yeerock/deepseek-harness-remote-control/main/docs/images/desktop-through-edge.png" alt="DSH RC — the unmodified Harness UI served through the edge" width="720"></a>
 
-[Architecture](https://github.com/yeerock/dsh-rc/blob/main/docs/ARCHITECTURE.md) &middot; [Why no WebRTC](https://github.com/yeerock/dsh-rc/blob/main/docs/adr/0001-no-webrtc.md) &middot; [Release v0.1.0](https://github.com/yeerock/dsh-rc/releases/tag/v0.1.0)
+[Architecture](https://github.com/yeerock/deepseek-harness-remote-control/blob/main/docs/ARCHITECTURE.md) &middot; [Why no WebRTC](https://github.com/yeerock/deepseek-harness-remote-control/blob/main/docs/adr/0001-no-webrtc.md) &middot; [Release v0.1.0](https://github.com/yeerock/deepseek-harness-remote-control/releases/tag/v0.1.0)
 
 ## Background
 
