@@ -30,6 +30,16 @@ The interesting engineering was not the model. It was working out which price li
 
 Serving Malaysia, Singapore, Thailand, Indonesia, the Philippines, Vietnam and Brunei.
 
+## Open source
+
+[**DSH RC · Remote Control**](https://github.com/yeerock/dsh-rc) &middot; MIT &middot; TypeScript
+
+Reliable remote access for the DeepSeek Harness desktop app: one outbound TLS WebSocket, the real Harness UI in any browser, no WebRTC, no UDP, no second client. Self-hosted edge, 197 automated tests, real end-to-end proof.
+
+<a href="https://github.com/yeerock/dsh-rc"><img src="https://raw.githubusercontent.com/yeerock/dsh-rc/main/docs/images/desktop-through-edge.png" alt="DSH RC — the unmodified Harness UI served through the edge" width="720"></a>
+
+[Architecture](https://github.com/yeerock/dsh-rc/blob/main/docs/ARCHITECTURE.md) &middot; [Why no WebRTC](https://github.com/yeerock/dsh-rc/blob/main/docs/adr/0001-no-webrtc.md) &middot; [Release v0.1.0](https://github.com/yeerock/dsh-rc/releases/tag/v0.1.0)
+
 ## Background
 
 PhD in Internet of Things, Universiti Malaya &middot; MBA, Universiti Putra Malaysia &middot; BEng Civil Engineering, UPM
